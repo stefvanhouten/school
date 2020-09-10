@@ -1,0 +1,13 @@
+D:\devel\school\software engineering\Week 1\Opdracht D\Opdracht D\bin\Debug\netcoreapp3.1\Opdracht D.exe
+D:\devel\school\software engineering\Week 1\Opdracht D\Opdracht D\bin\Debug\netcoreapp3.1\Opdracht D.deps.json
+D:\devel\school\software engineering\Week 1\Opdracht D\Opdracht D\bin\Debug\netcoreapp3.1\Opdracht D.runtimeconfig.json
+D:\devel\school\software engineering\Week 1\Opdracht D\Opdracht D\bin\Debug\netcoreapp3.1\Opdracht D.runtimeconfig.dev.json
+D:\devel\school\software engineering\Week 1\Opdracht D\Opdracht D\bin\Debug\netcoreapp3.1\Opdracht D.dll
+D:\devel\school\software engineering\Week 1\Opdracht D\Opdracht D\bin\Debug\netcoreapp3.1\Opdracht D.pdb
+D:\devel\school\software engineering\Week 1\Opdracht D\Opdracht D\obj\Debug\netcoreapp3.1\Opdracht D.csprojAssemblyReference.cache
+D:\devel\school\software engineering\Week 1\Opdracht D\Opdracht D\obj\Debug\netcoreapp3.1\Opdracht D.AssemblyInfoInputs.cache
+D:\devel\school\software engineering\Week 1\Opdracht D\Opdracht D\obj\Debug\netcoreapp3.1\Opdracht D.AssemblyInfo.cs
+D:\devel\school\software engineering\Week 1\Opdracht D\Opdracht D\obj\Debug\netcoreapp3.1\Opdracht D.csproj.CoreCompileInputs.cache
+D:\devel\school\software engineering\Week 1\Opdracht D\Opdracht D\obj\Debug\netcoreapp3.1\Opdracht D.dll
+D:\devel\school\software engineering\Week 1\Opdracht D\Opdracht D\obj\Debug\netcoreapp3.1\Opdracht D.pdb
+D:\devel\school\software engineering\Week 1\Opdracht D\Opdracht D\obj\Debug\netcoreapp3.1\Opdracht D.genruntimeconfig.cache

@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Contact</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <nav>
+        <a href="/index.html">Home</a>
+        <a href="/hobby.html">Hobby's</a>
+        <a href="/contact.html"  class="active">Contact</a>
+    </nav>
+    <section>
+        <h2>Contact</h2>
+        <form id="contact">
+            <label for="fname">First name:</label>
+            <input type="text" id="fname" name="fname">
+            <label for="email">Enter your email:</label>
+            <input type="email" id="email" name="email">  
+            <label for="dropdown">Choose subject:</label>
+            <select id="dropdown">
+                <option value="Hobby's">Hobby's</option>
+                <option value="Ervaring">Ervaring</option>
+                <option value="Contact">Contact</option>
+                <option value="Anders">Anders</option>
+            </select>
+            <label for="textarea">Description:</label>
+            <textarea id="texterea" cols="50" rows="10" placeholder="Vul hier je vraag in"></textarea>
+            <input type="submit" value="Send">
+        </form>
+    </section>
+</body>
+</html>

@@ -1,0 +1,73 @@
+html, body{
+    padding: 8px;
+}
+
+html{
+    background-image: url("images/background.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+h2 {
+    color: #FEFFFF;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+p {
+    color: #e5e7e7;
+}
+
+.active { 
+    text-decoration: underline;
+}
+nav > a {
+    color: #45A29E;
+    text-decoration: none;
+    font-size: 18px;
+    margin-right: 10px;
+}
+
+
+.programming_languages_img {
+    width: 50px;
+}
+.hobby_img {
+    width: 150px;
+}
+
+tr:nth-child(even) {
+    background-color: #000000;
+}
+
+td {
+    text-align: center;
+    padding: 5px;
+}
+td:hover {
+    background-color: rgb(56, 52, 45);
+}
+
+table {
+    background: #0B0C10;
+    width: 30%;
+}
+th, td {
+    color: #66FCF1;
+}
+
+input, label, select {
+    display: block;
+}
+
+label {
+    color: #45A29E;
+}
+
+input, .textarea, select {
+    margin-bottom: 9px;
+    padding: 5px;
+    font-size: 15px;
+    width: 250px;
+}
+
+input:last-child {margin-bottom:0;}

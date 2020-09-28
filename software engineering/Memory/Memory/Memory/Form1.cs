@@ -57,5 +57,10 @@ namespace Memory
             int cardId = Convert.ToInt32(selected.Name);
             selected.Image = this.ordered[cardId].image;
         }
+
+        private void tableLayoutPanel1_Paint(object sender, PaintEventArgs e)
+        {
+
+        }
     }
 }

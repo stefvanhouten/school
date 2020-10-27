@@ -1,0 +1,7 @@
+html, body {
+    height: 100%;
+  }
+  
+.login-div{
+    border-radius: 10px; 
+}
